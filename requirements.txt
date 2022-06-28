@@ -1,0 +1,9 @@
+ipython==8.4.0
+ipywidgets==7.6.5
+numpy==1.21.2
+opencv_python==4.5.2.54
+torch==1.9.0+cu111
+torchvision==0.10.0+cu111
+traitlets==5.1.1
+jetbot==0.4.3
+jetpack=4.5
